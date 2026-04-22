@@ -1,4 +1,4 @@
-![Banner](![Banner](https://github.com/PALLAB2005/PALLAB2005/blob/487d1ce9eeba8ae0b538cb55366add6b01a4e479/cover%20image.gif))
+https://github.com/PALLAB2005/PALLAB2005/blob/487d1ce9eeba8ae0b538cb55366add6b01a4e479/cover%20image.gif
 # 💫 About Me:
 🔭 Working on: Full Stack Website<br>🤝 Open to: Beginner-friendly open source collaboration<br>💼 Focused on: Backend Development & Full Stack Systems<br>🌱 Learning: AI & ML<br>💬 Ask me about: JavaScript & UI/UX<br>🎮 Hobbies: Gaming & Rubik’s cube enthusiast 🧩
 
