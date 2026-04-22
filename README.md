@@ -1,4 +1,6 @@
-![Banner](https://github.com/PALLAB2005/PALLAB2005/blob/ce785e887bb27adb6b5d1bce45d1dce707749c55/cover-image.gif)
+ <p align="center">
+  <img src="https://github.com/PALLAB2005/PALLAB2005/blob/ce785e887bb27adb6b5d1bce45d1dce707749c55/cover-image.gif" />
+</p> ![Banner](https://github.com/PALLAB2005/PALLAB2005/blob/ce785e887bb27adb6b5d1bce45d1dce707749c55/cover-image.gif)
 # 💫 About Me:
 🔭 Working on: Full Stack Website<br>🤝 Open to: Beginner-friendly open source collaboration<br>💼 Focused on: Backend Development & Full Stack Systems<br>🌱 Learning: AI & ML<br>💬 Ask me about: JavaScript & UI/UX<br>🎮 Hobbies: Gaming & Rubik’s cube enthusiast 🧩
 
