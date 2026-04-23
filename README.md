@@ -1,4 +1,4 @@
-# <p align="center">
+#<p align="center">
   <img src="https://github.com/PALLAB2005/PALLAB2005/blob/ce785e887bb27adb6b5d1bce45d1dce707749c55/cover-image.gif" />
 </p> 
 <!-- ![Banner](https://github.com/PALLAB2005/PALLAB2005/blob/ce785e887bb27adb6b5d1bce45d1dce707749c55/cover-image.gif) -->
