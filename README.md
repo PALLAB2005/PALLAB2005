@@ -47,7 +47,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-PallabBag-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:pallabbag001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-bag/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Show Some Love On Clicking
-  [![Google Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=flat&logo=Amazon-Pay&logoColor=white)](https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Ujjwal_AmazonPay_page-0001.jpg?raw=true)
+  [![Google Pay](https://github.com/PALLAB2005/PALLAB2005/blob/7ad816741e069388c976f01b0b6ea988bf5ba096/Assets_Used/GooglePay_QR.png)
   [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/PALLAB2005)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="30">Interested In
   [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)](#)
@@ -204,7 +204,7 @@
   
 </details>
 -->
-
+![Snake animation](./Assets_Used/snake.svg)
 ##
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
 
@@ -220,4 +220,3 @@
 
 
 
-![Snake animation](./Assets_Used/snake.svg)
