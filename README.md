@@ -123,7 +123,7 @@
 </td>
 <td>
   <!-- Github Theme Stats -->
-  <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PALLAB2005&theme=radical" alt="Github Theme Stats">
+ <!-- <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PALLAB2005&theme=radical" alt="Github Theme Stats">
 </td>
 </tr>
 </table>
