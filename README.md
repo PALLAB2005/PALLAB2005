@@ -95,18 +95,23 @@
 <!-- Take a refernce from this : https://github.com/tandpfun/skill-icons#readme -->
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,django,arduino,mysql,mongodb,materialui,git,githubactions,md,nodejs,sass,vite,threejs,gcp,bootstrap,tailwind,postman&perline=8)](https://github.com/PALLAB2005)
 
-<!-- # <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
+ # <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
 <table width="100%" align="center">
 <tr>
 <td>
-  
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PALLAB2005&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
   <!-- For Github Stats -->
   
- <!-- <img width="420" src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Pallab Bag GitHub stats"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Pallab Bag GitHub stats"/>
 </td>
 <td>
   <!-- Most Languages Used -->
- <!-- <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=PALLAB2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=PALLAB2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
@@ -114,22 +119,22 @@
 <tr>
 <td>
   <!-- For 3 Column Table -->
- <!-- <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=PALLAB2005&theme=radical&hide_border=false&width=300&height="175" />
+  <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=PALLAB2005&theme=radical&hide_border=false&width=300&height="175" />
 </td>
 <td>
   <!-- Github Theme Stats -->
- <!-- <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PALLAB2005&theme=radical" alt="Github Theme Stats">
+  <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PALLAB2005&theme=radical" alt="Github Theme Stats">
 </td>
 </tr>
 </table>
 <table width="100%" align="center">
 <td>
   <!-- Profile Summary -->
- <!-- <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PALLAB2005&theme=radical" alt="Profile Summary">
+  <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PALLAB2005&theme=radical" alt="Profile Summary">
 </td>
 <td>
   <!-- languages graph -->
- <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PALLAB2005&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PALLAB2005&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
@@ -137,13 +142,8 @@
 <div align="center">
   <img alt="Pallab Github Chart" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=PALLAB2005&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
 </div>-->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PALLAB2005&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-<!--<details>	
+<details>	
  <summary><b>Github Chart</b></summary><br>
 
 <div align="center">
