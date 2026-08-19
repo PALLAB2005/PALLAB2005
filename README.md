@@ -19,7 +19,7 @@
 
 <p align="left">
 
-[![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pallab-bag/)
+[![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pallab-bag-816842332)
 </p>
 
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I’m currently working on 
@@ -140,59 +140,9 @@
 
 </details>-->
 
-# <img src="Assets_Used/Gifs/HeadGifs/Medal1.gif" width="35px"> **Badges:**
 
-### My Github Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/PALLAB2005">
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/yolo-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pull-shark-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/starstruck-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/heart-on-your-sleeve-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/galaxy-brain-default.png?raw=true" width="100px" height="100px" />
-</a>
-</div>
 
-### My GSSOC(24) Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge1.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge2.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge3.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge4.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge5.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge6.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/PostMan.png?raw=true" width="100px" height="100px" />
-</a>
-</div>
 
-### My Leetcode Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-   <img src="Assets_Used/LeetCodeBadges/2024-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-100.gif?raw=true" alt="Leetcode 100 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-200.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-365.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/2025.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/StreakCoin.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/JS30.png?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-</div>
-
-### Github Homely Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/PALLAB2005">
-   <img src="Assets_Used/Svg Badges/Connection.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/Telescope.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/Coding.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/StarFork.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/Helping.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/Discussion.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/PullMerge.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/CodeDeploy.svg" alt="Alt Text" width="80px" height="80px" />
-</a>
-</div>
-
-### My Holopins Badges
-[![An image of @PALLAB2005 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/PALLAB2005)](https://holopin.io/@PALLAB2005)
 
 <!--
 <details>	
@@ -268,6 +218,6 @@
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38">
 </h4>
 
-## 🐍 Snake Game
+
 
 ![Snake animation](./Assets_Used/snake.svg)
