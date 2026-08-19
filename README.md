@@ -107,11 +107,11 @@
 ---
   <!-- For Github Stats -->
   
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Pallab Bag GitHub stats"/>
+  <!--<img width="420" src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Pallab Bag GitHub stats"/>
 </td>
 <td>
   <!-- Most Languages Used -->
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=PALLAB2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
+  <!--<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=PALLAB2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
@@ -119,7 +119,7 @@
 <tr>
 <td>
   <!-- For 3 Column Table -->
-  <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=PALLAB2005&theme=radical&hide_border=false&width=300&height="175" />
+ <!-- <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=PALLAB2005&theme=radical&hide_border=false&width=300&height="175" />
 </td>
 <td>
   <!-- Github Theme Stats -->
