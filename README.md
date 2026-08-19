@@ -47,7 +47,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-PallabBag-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:pallabbag001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-bag/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Show Some Love On Clicking
-  [![Google Pay](https://github.com/PALLAB2005/PALLAB2005/blob/7ad816741e069388c976f01b0b6ea988bf5ba096/Assets_Used/GooglePay_QR.png)
+  [![Google Pay]([![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=flat&logo=google-pay&logoColor=white)](https://github.com/PALLAB2005/PALLAB2005/blob/7ad816741e069388c976f01b0b6ea988bf5ba096/Assets_Used/GooglePay_QR.png)
   [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/PALLAB2005)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="30">Interested In
   [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)](#)
@@ -58,9 +58,14 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://github.com/PALLAB2005)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 
+
+
+
+
+
 ![](https://komarev.com/ghpvc/?username=PALLAB2005&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=PALLAB2005.PALLAB2005&right_color=orange&left_text=Visits)
-[![Last Commit on GitHub]  ](https://github.com/PALLAB2005) 
+  (https://github.com/PALLAB2005) 
 <a href="https://github.com/PALLAB2005">
     <img src="https://img.shields.io/github/followers/PALLAB2005?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
@@ -90,16 +95,18 @@
 <!-- Take a refernce from this : https://github.com/tandpfun/skill-icons#readme -->
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,django,arduino,mysql,mongodb,materialui,git,githubactions,md,nodejs,sass,vite,threejs,gcp,bootstrap,tailwind,postman&perline=8)](https://github.com/PALLAB2005)
 
-# <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
+<!-- # <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
 <table width="100%" align="center">
 <tr>
 <td>
+  
   <!-- For Github Stats -->
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Pallab Bag GitHub stats"/>
+  
+ <!-- <img width="420" src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Pallab Bag GitHub stats"/>
 </td>
 <td>
   <!-- Most Languages Used -->
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=PALLAB2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
+ <!-- <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=PALLAB2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
@@ -107,30 +114,35 @@
 <tr>
 <td>
   <!-- For 3 Column Table -->
-  <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=PALLAB2005&theme=radical&hide_border=false&width=300&height="175" />
+ <!-- <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=PALLAB2005&theme=radical&hide_border=false&width=300&height="175" />
 </td>
 <td>
   <!-- Github Theme Stats -->
-  <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PALLAB2005&theme=radical" alt="Github Theme Stats">
+ <!-- <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PALLAB2005&theme=radical" alt="Github Theme Stats">
 </td>
 </tr>
 </table>
 <table width="100%" align="center">
 <td>
   <!-- Profile Summary -->
-  <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PALLAB2005&theme=radical" alt="Profile Summary">
+ <!-- <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PALLAB2005&theme=radical" alt="Profile Summary">
 </td>
 <td>
   <!-- languages graph -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PALLAB2005&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
+ <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PALLAB2005&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
 
 <div align="center">
   <img alt="Pallab Github Chart" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=PALLAB2005&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
-</div>
+</div>-->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PALLAB2005&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 <!--<details>	
  <summary><b>Github Chart</b></summary><br>
 
@@ -203,7 +215,10 @@
   [![An image of @PALLAB2005 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/PALLAB2005)](https://holopin.io/@PALLAB2005)
   
 </details>
--->
+--></a>
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38">
+</h4>
+
 ![Snake animation](./Assets_Used/snake.svg)
 ##
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
