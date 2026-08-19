@@ -1,127 +1,226 @@
-<h1 align="center">
-  Hey 👋 What's Up?
-</h1>
+<div align="center">
+
+<a href="https://github.com/PALLAB2005">
+
+<img src="https://readme-typing-svg.demolab.com?font=Grey+Qo&size=50&pause=1000&width=650&color=EBA60E&center=true&vCenter=true&height=70&lines=Hey+👋+What's+Up%3F" alt="Hey What's Up - Pallab" />
+
+</a>
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=I'm+Pallab+Bag+👋;Full-Stack+Developer+🚀;UI%2FUX+Designer+🎨;Frontend+Developer+💻;Cross-Platform+Developer+📱;Freelancer+💼;Creative+Builder+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=36&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=I'm+Pallab+Bag+🚀;Full-Stack+Developer+💻;UI%2FUX+Designer+🎨;Frontend+Developer+⚡;Cross-Platform+Developer+📱;Freelancer+💼;Creative+Builder+✨" alt="Pallab Bag Animated Roles" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PALLAB2005/PALLAB2005/main/Robot.gif" width="220" alt="Robot Animation" />
+  <img src="https://raw.githubusercontent.com/PALLAB2005/PALLAB2005/main/Robot.gif" width="230" alt="Pallab Robot Animation" />
 </p>
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p>
-I'm <strong>Pallab Bag</strong>, a professional 
-<strong>Full-Stack Web Developer</strong>, 
-<strong>Cross-Platform Developer</strong>, 
-<strong>UI/UX Designer</strong>, and 
-<strong>Freelancer</strong> based in 
-<strong>Kolkata, India</strong>.
-</p>
+I'm **Pallab Bag**, a professional **Full-Stack Web Developer**, **Cross-Platform Developer**, **UI/UX Designer**, and **Freelancer** based in **Kolkata, India**.
 
-<p>
-Specialized in building scalable web applications, cross-platform apps,
-and modern user interfaces — delivering industry-leading digital solutions
-with a strong focus on performance, usability, and design.
-</p>
+Specialized in building scalable web applications, cross-platform apps, and modern user interfaces — delivering industry-leading solutions with a strong focus on **performance, usability, creativity, and clean design**.
+
+* 💻 Full-Stack Web Development
+* 🎨 UI/UX & Modern Interface Design
+* 📱 Cross-Platform Application Development
+* 🤖 AI-Powered Applications
+* ⚡ Modern Frontend Development
+* 🔧 Backend & API Development
+* 🚀 Deployment & Cloud Technologies
+* 🌱 Always learning and continuously evolving
 
 ---
 
-<h2>🌐 Connect with me: 👈 👉</h2>
-
-<p>
-  <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2>🛠️ Languages & Tools 🚀</h2>
+## 🤝 Connect With Me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,express,c,cpp" />
-</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,arduino,mysql,mongodb,nextjs,git,github,vscode" />
-</p>
+<a href="https://www.instagram.com/_pallab_7890/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" alt="Instagram"/>
+</a>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,sass,vite,vercel,googlecloud,bootstrap,tailwind,postman" />
-</p>
+<a href="https://www.linkedin.com/in/pallab-bag/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+</a>
 
----
+<a href="mailto:pallabbag001@gmail.com">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" alt="Gmail"/>
+</a>
 
-<h2>📊 GitHub Stats</h2>
+<a href="https://github.com/PALLAB2005" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="GitHub"/>
+</a>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAB2005&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
 </p>
 
 ---
 
-<h2>🔥 GitHub Streak</h2>
+## 🛠️ Languages and Tools 🚀
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=PALLAB2005&theme=tokyonight&hide_border=true"
-    alt="Pallab's GitHub Streak"
-  />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,express,nodejs&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,django,mysql,mongodb,firebase,supabase,git,github&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,githubactions,sass,vite,bootstrap,tailwind,postman,vercel,netlify&perline=9" />
 </p>
 
 ---
 
-<h2>📈 GitHub Activity</h2>
+## 💡 What I Work With
+
+* 🌐 **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js
+* ⚙️ **Backend:** Node.js, Express, Django
+* 🗄️ **Database:** MongoDB, MySQL, Firebase, Supabase
+* 📱 **Cross-Platform:** Modern cross-platform application development
+* 🎨 **Design:** UI/UX, Responsive Design, Design Systems
+* 🤖 **AI:** AI-powered web applications and integrations
+* ☁️ **Cloud & Deployment:** Vercel, Netlify, AWS
+* 🛠️ **Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=radical&count_private=true&hide_border=false"
+alt="Pallab Bag GitHub Stats"
+/>
+
+<img
+width="42%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAB2005&layout=compact&langs_count=8&theme=radical&hide_border=false"
+alt="Pallab Bag Top Languages"
+/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+width="70%"
+src="https://streak-stats.demolab.com/?user=PALLAB2005&theme=radical&hide_border=false"
+alt="Pallab Bag GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=PALLAB2005&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"
+alt="Pallab Bag GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/PALLAB2005/PALLAB2005/main/snake.svg"
+alt="Pallab Bag GitHub Contribution Snake"
+width="95%"
+/>
+
+</div>
+
+---
+
+## 🚀 Currently Learning
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PALLAB2005&theme=tokyo-night&hide_border=true&area=true"
-    alt="Pallab's GitHub Activity Graph"
-  />
+
+<img src="https://skillicons.dev/icons?i=ai,docker,aws,nextjs,typescript,nodejs,python" />
+
+</p>
+
+<p align="center">
+  <strong>AI • Full-Stack • System Design • Cloud • UI/UX • Open Source</strong>
 </p>
 
 ---
 
-<h2>🐍 Contribution Snake</h2>
+## 🌱 My Developer Journey
+
+```text
+💡 Idea
+   ↓
+🎨 Design
+   ↓
+💻 Development
+   ↓
+🧪 Testing
+   ↓
+🚀 Deployment
+   ↓
+📈 Improvement
+   ↓
+✨ Repeat
+```
+
+---
+
+## 👀 Profile Visitors
 
 <p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=PALLAB2005&label=Profile%20Views&color=blueviolet&style=for-the-badge"
+alt="Pallab Profile Views"
+/>
+
+<a href="https://github.com/PALLAB2005">
   <img
-    src="https://raw.githubusercontent.com/PALLAB2005/PALLAB2005/main/snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
+    src="https://img.shields.io/github/followers/PALLAB2005?style=for-the-badge&logo=github&label=Followers"
+    alt="GitHub Followers"
   />
+</a>
+
 </p>
 
 ---
 
-<h2 align="center">✨ Thanks for visiting my profile! ✨</h2>
+<div align="center">
 
-<p align="center">
+## ✨ Thanks for Visiting My Profile! ✨
+
+<p>
   <strong>💻 Code • 🎨 Design • 🤖 Innovate • 🚀 Build</strong>
 </p>
 
-<p align="center">
+<p>
   <i>Let's build something amazing together.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PALLAB2005&label=Profile%20Views&color=58A6FF&style=flat-square" />
-</p>
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=4500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Check+my+pinned+repositories+below+⭐;Let's+connect+and+build+something+amazing!+🚀"
+alt="Final Message"
+/>
+
+</div>
