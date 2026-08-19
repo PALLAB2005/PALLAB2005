@@ -47,7 +47,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-PallabBag-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:pallabbag001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-bag/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Show Some Love On Clicking
-  [![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=flat&logo=Amazon-Pay&logoColor=white)](https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Ujjwal_AmazonPay_page-0001.jpg?raw=true)
+  [![Google Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=flat&logo=Amazon-Pay&logoColor=white)](https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Ujjwal_AmazonPay_page-0001.jpg?raw=true)
   [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/PALLAB2005)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="30">Interested In
   [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)](#)
@@ -60,7 +60,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PALLAB2005&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=PALLAB2005.PALLAB2005&right_color=orange&left_text=Visits)
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-02%2008%202025-red)](https://github.com/PALLAB2005) 
+[![Last Commit on GitHub]  ](https://github.com/PALLAB2005) 
 <a href="https://github.com/PALLAB2005">
     <img src="https://img.shields.io/github/followers/PALLAB2005?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
@@ -80,8 +80,8 @@
 
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
 <p align="left">
-<a href="https://www.instagram.com/_pallab_7890/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallab_7890" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pallab-bag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallab-bag" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_pallab_7890/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_pallab_7890/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pallab-bag-816842332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallab-bag" height="30" width="40" /></a>
 <a href="mailto:pallabbag001@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
 </p>
 
