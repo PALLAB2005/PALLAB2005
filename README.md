@@ -99,12 +99,13 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=PALLAB2005&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
   <!-- For Github Stats -->
   
   <!--<img width="420" src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Pallab Bag GitHub stats"/>
@@ -130,7 +131,7 @@
 <table width="100%" align="center">
 <td>
   <!-- Profile Summary -->
-  <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PALLAB2005&theme=radical" alt="Profile Summary">
+  <!--<img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PALLAB2005&theme=radical" alt="Profile Summary">
 </td>
 <td>
   <!-- languages graph -->
