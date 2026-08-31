@@ -135,7 +135,7 @@ alt="Pallab Bag GitHub Stats"
 
 <img
   width="60%"
-  src=" https://streak-stats.demolab.com/?user=PALLAB2005&theme=merko&hide_border=false"
+  src="https://streak-stats.demolab.com/?user=PALLAB2005&theme=merko&hide_border=false"
   alt="Pallab Bag GitHub Streak"
 />
 
