@@ -106,7 +106,7 @@
 <img
   width="420"
   src="https://github-readme-stats.shion.dev/api?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false"
-  alt="Pallab Bag GitHub Stats"
+alt="Pallab Bag GitHub Stats"
 /> 
 
 </td>
@@ -117,7 +117,7 @@
 
 <img
   width="320"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+  src="https://streak-stats.demolab.com/?user=PALLAB2005&theme=merko&hide_border=false"
   alt="Pallab Bag Top Languages"
 />
 
@@ -134,7 +134,7 @@
 
 <img
   width="60%"
-  src="https://streak-stats.demolab.com/?user=PALLAB2005&theme=merko&hide_border=false"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
   alt="Pallab Bag GitHub Streak"
 />
 
