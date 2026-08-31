@@ -103,12 +103,11 @@
 <td align="center">
 
 <!-- GitHub Stats -->
-
 <img
   width="420"
-  src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.shion.dev/api?username=PALLAB2005&theme=merko&hide_border=false&include_all_commits=false&count_private=false"
   alt="Pallab Bag GitHub Stats"
-/>
+/> 
 
 </td>
 
