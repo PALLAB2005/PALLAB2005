@@ -223,16 +223,16 @@ alt="Pallab Bag GitHub Stats"
 
 ![Snake animation](./Assets_Used/snake.svg)
 ##
-<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
+<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/PALLAB2005/PALLAB2005/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
 
-<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
+<img align='center' src="https://github.com/PALLAB2005/PALLAB2005/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 
 <h4 align = "center"> 
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38"> 
+  <img src="https://github.com/PALLAB2005/PALLAB2005/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38"> 
   <a align = "center href="https://github.com/PALLAB2005">
     <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=20&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+and+leave++Star+Please+✯" alt="Typing SVG"/>
   </a>
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38">
+  <img src="https://github.com/PALLAB2005/PALLAB2005/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38">
 </h4>
 
 
