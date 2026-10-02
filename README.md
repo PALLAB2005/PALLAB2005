@@ -218,7 +218,7 @@ alt="Pallab Bag GitHub Stats"
   
 </details>
 --></a>
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38">
+  <img src="https://github.com/PALLAB2005/PALLAB2005/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38">
 </h4>
 
 ![Snake animation](./Assets_Used/snake.svg)
