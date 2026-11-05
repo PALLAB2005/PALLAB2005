@@ -30,7 +30,7 @@
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif" width="25">I work using 
+- <img align='left' src="https://github.com/PALLAB2005/PALLAB2005/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif" width="25">I work using 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
@@ -65,7 +65,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PALLAB2005&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=PALLAB2005.PALLAB2005&right_color=orange&left_text=Visits)
-  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/PALLAB2005)
 <a href="https://github.com/PALLAB2005">
     <img src="https://img.shields.io/github/followers/PALLAB2005?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
