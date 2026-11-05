@@ -65,7 +65,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PALLAB2005&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=PALLAB2005.PALLAB2005&right_color=orange&left_text=Visits)
-  (https://github.com/PALLAB2005) 
+  
 <a href="https://github.com/PALLAB2005">
     <img src="https://img.shields.io/github/followers/PALLAB2005?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
