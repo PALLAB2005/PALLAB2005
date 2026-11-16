@@ -83,9 +83,9 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PALLAB2005&theme=monokai" alt="PALLAB2005" /></a> </p>-->
 <img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="385">
 
-<h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
+<h3 align="left">Connect with me: <img align='center' src="https://github.com/PALLAB2005/PALLAB2005/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
 <p align="left">
-<a href="https://www.instagram.com/_pallabbag_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_pallab_7890/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pallabbag_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_pallab_7890/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pallab-bag-816842332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallab-bag" height="30" width="40" /></a>
 <a href="mailto:pallabbag001@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
 </p>
