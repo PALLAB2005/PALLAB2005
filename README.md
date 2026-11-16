@@ -22,7 +22,7 @@
 [![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pallab-bag-816842332)
 </p>
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I’m currently working on 
+- <img align='left' src="https://github.com/PALLAB2005/PALLAB2005/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I’m currently working on 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
