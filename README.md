@@ -20,6 +20,8 @@
 <p align="left">
 
 [![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pallab-bag-816842332)
+[![Instagram](https://img.shields.io/badge/Instagram-Magenta?style=for-the-badge&logo=Instagram)](https://www.instagram.com/pallabbag_/)
+</p>
 </p>
 
 - <img align='left' src="https://github.com/PALLAB2005/PALLAB2005/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I’m currently working on 
