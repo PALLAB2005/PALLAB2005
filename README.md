@@ -46,7 +46,7 @@
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27">How to reach me
 [![Gmail Badge](https://img.shields.io/badge/-PallabBag-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:pallabbag001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-bag-816842332/)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Show Some Love On Clicking
+- <img align='left' src="https://github.com/PALLAB2005/PALLAB2005/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Show Some Love On Clicking
   [![Google Pay][![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=flat&logo=google-pay&logoColor=white)](https://github.com/PALLAB2005/PALLAB2005/blob/7ad816741e069388c976f01b0b6ea988bf5ba096/Assets_Used/GooglePay_QR.png)
   [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/PALLAB2005)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="30">Interested In
